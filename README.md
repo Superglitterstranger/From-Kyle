@@ -1,2 +1,9 @@
-# From-Kyle
-Long time lifestyle blogger and occult study author Kyle W. Meek takes on fun and alternative topics for humorous insights and informative content. 
+# LeeL Blog
+
+**LeeL Blog** Is a Google Chrome extension that allows you to publish notes created on Evernote to Github.
+
+## Quick Start
+
+### Step 1)
+
+## Credits
